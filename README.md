@@ -1,4 +1,4 @@
-# Slack Chatbot : MyDic
+# SSAFY 1기 Slack Chatbot : MyDic
 슬랙을 이용한 간단한 챗봇 서비스 만들기
 
 ● ngrok + Slack API + Flask
